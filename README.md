@@ -1,9 +1,9 @@
 # Physics-Problems
 **Symbolic and Numerical Solution to some Physics Problems**
 
-.ipynb (Jupyter notebook file)
-.py (Python file)
-.nb (Mathematica file)
+.ipynb (Jupyter notebook file) <br>
+.py (Python file) <br>
+.nb (Mathematica file) <br>
 
 
 ## Double Pendulum
