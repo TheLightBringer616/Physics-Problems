@@ -142,7 +142,7 @@ def dS_dt(S, t, g, M1, M2, l1, l2):
 # Constant parameters
 
 g = 9.8
-M1 = 100
+M1 = 3
 M2 = 5
 l1 = 2.3
 l2 = 0.7
@@ -158,7 +158,7 @@ iv_theta1 = 0
 
 # Initial conditions for theta2
 
-ip_theta2 = np.pi / 2
+ip_theta2 = 0.1 * np.pi
 iv_theta2 = 0
 
 # Initial vector
